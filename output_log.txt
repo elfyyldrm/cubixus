@@ -19,6 +19,6 @@ Platform assembly: C:\Users\elifyildirim98\ilk-oyun_Data\Managed\UnityEngine.Tim
 Loading C:\Users\elifyildirim98\ilk-oyun_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
 Platform assembly: C:\Users\elifyildirim98\ilk-oyun_Data\Managed\System.dll (this message is harmless)
 Platform assembly: C:\Users\elifyildirim98\ilk-oyun_Data\Managed\System.Core.dll (this message is harmless)
-- Completed reload, in  0.059 seconds
+- Completed reload, in  0.053 seconds
 <RI> Initializing input.
 <RI> Input initialized.
